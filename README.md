@@ -1,4 +1,4 @@
-This github repository contains all necessary code and datasets to reproduce results from Walker et al. 2026. 
+This github repository contains all necessary code and datasets to reproduce results from Walker et al. (in review). 
 
 Title: Symbiodiniaceae community structure and thermal tolerance in soft corals from captive aquarium environments
 Authors: Nia S. Walker, Henry Zucco, Eridaly Basave, Jie Yi Denise Chen, Rylie Crow, Evelyn Chavez-Gonzalez
